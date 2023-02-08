@@ -1,0 +1,23 @@
+body {
+  background: royalblue;
+}
+
+.clock {
+  position: absolute;
+  color: peachpuff;
+  font-size: 150px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 10px;
+  padding-left: 380px;
+  padding-top: 200px;
+}
+
+p {
+  text-align: center;
+  position: absolute;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: skyblue;
+  padding-left: 375px;
+  padding-top: 92px;
+  font-size: 56px;
+}
